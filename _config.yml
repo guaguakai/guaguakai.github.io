@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Life of being a Ph.D. student"
+title                    : "Lifelong learning, lifelong working..."
 title_separator          : "-"
 name                     : &name "Kai Wang"
-description              : &description "I am currently a 3rd year Ph.D. student in Harvard University advised by Professor Milind Tambe. My research interest includes algorithmic game theory, optimization, adversarial machine learning, and multi-arm bandit problem."
+description              : &description ""
 url                      : https://guaguakai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guaguakai/guaguakai.github.io"

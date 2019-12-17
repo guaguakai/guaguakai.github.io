@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-publication
-======
-
 DeepFP for Finding Approximate Nash Equilibrium in Continuous Action Spaces
 ------
 Nitin Kamra, Umang Gupta, <strong>Kai Wang</strong>, Fei Fang, Yan Liu, Milind Tambe <br>

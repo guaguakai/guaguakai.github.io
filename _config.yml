@@ -83,9 +83,7 @@ author:
   name             : "Kai Wang"
   avatar           : "profile.png"
   bio              : "I am currently a 3rd year Ph.D. student in Harvard University advised by Professor Milind Tambe. My research interest includes algorithmic game theory, optimization, adversarial machine learning, and multi-arm bandit problem."
-  location         : "Cambridge MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=W8XebxUAAAAJ"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

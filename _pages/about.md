@@ -39,19 +39,19 @@ AAAI 2018
 ---
 # Workshop Publication
 
-###Adversarial Machine Learning with Double Oracle <br>
+### Adversarial Machine Learning with Double Oracle <br>
 <strong>Kai Wang</strong>, Bryan Wilder, and Milind Tambe <br>
 IJCAI 2019 Doctoral Consortium <br>
 
-###Improving GP-UCB Algorithm by Harnessing Decomposed Feedback <br>
+### Improving GP-UCB Algorithm by Harnessing Decomposed Feedback <br>
 <strong>Kai Wang</strong>, Bryan Wilder, Sze-chuan Suen, Milind Tambe, and Bistra Dilkina <br>
 ECML 2019 SoGood Workshop <br>
 
-###Mobile Game Theory with Street Gangs <br>
+### Mobile Game Theory with Street Gangs <br>
 Sarah Cooney, Wendy Gomez, <strong>Kai Wang</strong>, Jorja Leap, P. Jeffery Brantingham, and Milind Tambe <br>
 ECML 2019 SoGood Workshop <br>
 
-###Routing Games with Priorities <br>
+### Routing Games with Priorities <br>
 <strong>Kai Wang</strong>,  Hong-Jyun Wang, and Ho-Lin Chen <br>
 AAAC 2016 <br>
 

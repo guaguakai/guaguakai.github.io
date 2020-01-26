@@ -1,13 +1,21 @@
 ---
 permalink: /
 excerpt: "About me"
-title: "Conference Publication"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Please find my resume and publication below. Feel free to contact me if you are interested in my work.
 
+
+---
+# Resume
+[My CV](https://guaguakai.github.io/files/kaiCV.pdf)
+
+---
+# Conference Publication
 ### Scalable Game-Focused Learning of Adversary Models:Data-to-Decisions in Network Security Games <br>
 <strong>Kai Wang</strong>, Andrew Perrault, Aditya Mate, and Milind Tambe <br>
 AAMAS 2020

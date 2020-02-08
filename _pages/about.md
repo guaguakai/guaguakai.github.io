@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a 3rd year PhD student advised by Professor Milind Tambe.
+I mostly work on algorithmic game theory and theory in machine learning, including statistical learning, multi-armed bandits, and applications like graph neural networks etc.
+I enjoy thinking any kinds of interesting math and computer science problems, which are always distracting me from my research.
 Please find my resume and publication below. Feel free to contact me if you are interested in my work.
 
 

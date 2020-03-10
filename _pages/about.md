@@ -19,7 +19,7 @@ Please find my resume and publication below. Feel free to contact me if you are 
 
 ---
 # Conference Publication
-### Scalable Game-Focused Learning of Adversary Models:Data-to-Decisions in Network Security Games <br>
+### [Scalable Game-Focused Learning of Adversary Models:Data-to-Decisions in Network Security Games](https://teamcore.seas.harvard.edu/publications/scalable-game-focused-learning-adversary-models-data-decisions-network) <br>
 <strong>Kai Wang</strong>, Andrew Perrault, Aditya Mate, and Milind Tambe <br>
 AAMAS 2020
 
@@ -49,6 +49,10 @@ AAAI 2018
 
 ---
 # Workshop Publication
+
+### [Balance Between Scalability and Optimality in Network Security Games](https://teamcore.seas.harvard.edu/publications/balance-between-scalability-and-optimality-network-security-games) <br>
+<strong>Kai Wang</strong>
+AAMAS 2020 Doctoral Consortium
 
 ### [Adversarial Machine Learning with Double Oracle](https://www.ijcai.org/Proceedings/2019/0925.pdf) <br>
 <strong>Kai Wang</strong>, Bryan Wilder, and Milind Tambe <br>

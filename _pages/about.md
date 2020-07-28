@@ -20,7 +20,7 @@ Please find my resume and publication below. Feel free to contact me if you are 
 ---
 # Conference Publication
 
-### Automatically Learning Compact Quality-aware Surrogates for Optimization Problems <br>
+### [Automatically Learning Compact Quality-aware Surrogates for Optimization Problems](https://arxiv.org/abs/2006.10815) <br>
 **Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
 under review
 

@@ -24,9 +24,13 @@ Please find my resume and publication below. Feel free to contact me if you are 
 **Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
 under review
 
-### Dual-Mandate Patrols: Learning While Patrolling in Green Security Domains
+### Dual-Mandate Patrols: Learning While Patrolling in Green Security Domains <br>
 Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, **Kai Wang**, and Milind Tambe <br>
 under review
+
+### [Robust Spatial-Temporal Incident Prediction](http://proceedings.mlr.press/v124/mukhopadhyay20a.html) <br>
+Ayan Mukhopadhyay, **Kai Wang**, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik <br>
+UAI 2020
 
 ### [Scalable Game-Focused Learning of Adversary Models:Data-to-Decisions in Network Security Games](https://teamcore.seas.harvard.edu/publications/scalable-game-focused-learning-adversary-models-data-decisions-network) <br>
 **Kai Wang**, Andrew Perrault, Aditya Mate, and Milind Tambe <br>

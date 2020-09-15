@@ -24,7 +24,7 @@ Please find my resume and publication below. Feel free to contact me if you are 
 **Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
 under review
 
-### Dual-Mandate Patrols: Learning While Patrolling in Green Security Domains <br>
+### [Dual-Mandate Patrols: Multi-Armed Bandits for Green Security](https://arxiv.org/abs/2009.06560) <br>
 Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, **Kai Wang**, and Milind Tambe <br>
 under review
 

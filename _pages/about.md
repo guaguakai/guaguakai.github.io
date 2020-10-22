@@ -29,7 +29,7 @@ under review
 
 ### [Automatically Learning Compact Quality-aware Surrogates for Optimization Problems](https://arxiv.org/abs/2006.10815) <br>
 **Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
-NeurIPS 2020 <span style="color:red">spotlight presentation</span>
+NeurIPS 2020 <span style="color:red">**spotlight presentation**</span>
 
 ### [Robust Spatial-Temporal Incident Prediction](http://proceedings.mlr.press/v124/mukhopadhyay20a.html) <br>
 Ayan Mukhopadhyay, **Kai Wang**, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik <br>

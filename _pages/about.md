@@ -19,14 +19,17 @@ Please find my resume and publication below. Feel free to contact me if you are 
 
 ---
 # Conference Publication
-
-### [Automatically Learning Compact Quality-aware Surrogates for Optimization Problems](https://arxiv.org/abs/2006.10815) <br>
-**Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
-NeurIPS 2020 <span style="color:red">spotlight presentation</span>
+### Getting Agents to Reach Better Equilibria: A Gradient-based Optimization Approach <br>
+**Kai Wang**, Andrew Perrault, Michael K. Reiter, and Milind Tambe
+under review
 
 ### [Dual-Mandate Patrols: Multi-Armed Bandits for Green Security](https://arxiv.org/abs/2009.06560) <br>
 Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, **Kai Wang**, and Milind Tambe <br>
 under review
+
+### [Automatically Learning Compact Quality-aware Surrogates for Optimization Problems](https://arxiv.org/abs/2006.10815) <br>
+**Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
+NeurIPS 2020 <span style="color:red">spotlight presentation</span>
 
 ### [Robust Spatial-Temporal Incident Prediction](http://proceedings.mlr.press/v124/mukhopadhyay20a.html) <br>
 Ayan Mukhopadhyay, **Kai Wang**, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik <br>

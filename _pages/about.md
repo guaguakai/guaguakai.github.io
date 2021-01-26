@@ -20,12 +20,12 @@ Please find my resume and publication below. Feel free to contact me if you are 
 ---
 # Conference Publication
 ### Getting Agents to Reach Better Equilibria: A Gradient-based Optimization Approach <br>
-**Kai Wang**, Andrew Perrault, Michael K. Reiter, and Milind Tambe <br>
+**Kai Wang**, Lily Xu, Andrew Perrault, Michael K. Reiter, and Milind Tambe <br>
 under review
 
 ### [Dual-Mandate Patrols: Multi-Armed Bandits for Green Security](https://arxiv.org/abs/2009.06560) <br>
 Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, **Kai Wang**, and Milind Tambe <br>
-under review
+AAAI 2021
 
 ### [Automatically Learning Compact Quality-aware Surrogates for Optimization Problems](https://arxiv.org/abs/2006.10815) <br>
 **Kai Wang**, Bryan Wilder, Andrew Perrault, and Milind Tambe <br>
